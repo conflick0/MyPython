@@ -77,7 +77,7 @@ def get_card(i):
 if __name__ == "__main__":
     card_lists = []
     cards = []
-    types = {"troops": 0, "Defensive Buildings": 1, "Passive Buildings": 2,
+    types = {"Troops": 0, "Defensive Buildings": 1, "Passive Buildings": 2,
              "Damaging Spells": 3, "Spawners": 4}
     for k, v in types.items():
         cards.append({k: get_card(v)})
