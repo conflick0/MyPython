@@ -17,7 +17,7 @@ def get_card_url(url, i):
 
 
 def get_card_data(url):
-    card_dict = {"name:": url.split("/")[-1]}
+    card_dict = {"name": url.split("/")[-1]}
     html = requests.get(url)
     sp = BeautifulSoup(html.text, 'html.parser')
 
