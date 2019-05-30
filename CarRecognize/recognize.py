@@ -5,7 +5,7 @@ import time
 
 def get_license(img_name,image_url):
     # Replace <Subscription Key> with your valid subscription key.
-    subscription_key = "f5fe0534bb63445585769f1a3e1b7f94"
+    subscription_key = ""
     assert subscription_key
 
     vision_base_url = "https://westcentralus.api.cognitive.microsoft.com/vision/v2.0/"
