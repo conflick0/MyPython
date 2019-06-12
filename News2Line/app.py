@@ -12,8 +12,8 @@ from linebot.models import *
 
 app = Flask(__name__)
 
-line_bot_api = LineBotApi('')
-handler = WebhookHandler('')
+line_bot_api = LineBotApi('Enter your key') # please enter your key
+handler = WebhookHandler('Enter your webhook key') # please enter your webhook key
 
 
 @app.route("/callback", methods=['POST'])
