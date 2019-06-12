@@ -91,7 +91,7 @@ def reply_msg(event, msg):
 
 def push_msg(msg):
     line_bot_api.push_message(
-        'Ub5ad7ca921f47a6da25e63fe0867616a',
+        'Y',
         TextSendMessage(text=msg))
 
 
