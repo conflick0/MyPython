@@ -2,13 +2,13 @@
 HW Car Recognize
 --
 # 1.Download zip
-<img src="https://raw.githubusercontent.com/conflick0/MyPython/master/readme_img/1.jpg">    
+<img src="./readme_img/1.jpg">    
 
 # 2.Click CarRecognize File
-<img src="https://raw.githubusercontent.com/conflick0/MyPython/master/readme_img/2.jpg">    
+<img src="./readme_img//2.jpg">    
 
 # 3.Copy all file
-<img src="https://raw.githubusercontent.com/conflick0/MyPython/master/readme_img/3.jpg">    
+<img src="./readme_img/3.jpg">    
 
 # 4.Past all file
 <img src="https://raw.githubusercontent.com/conflick0/MyPython/master/readme_img/4.jpg">    
